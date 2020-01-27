@@ -1,0 +1,4 @@
+o student name: Tommy Kaarjamenawi
+o student number: 652192
+o student class: IT1A
+o URL student GitHub repository: https://github.com/tommykarjamenawi/webmarekup-retake.git
